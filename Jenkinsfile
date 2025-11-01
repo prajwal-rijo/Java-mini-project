@@ -61,7 +61,4 @@ pipeline {
                     '''
                 }
             }
-        }
-    }
-}
-
+        added new line from prjwal 
